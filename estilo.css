@@ -140,7 +140,7 @@ header .conteudo a
     {
         font-weight: normal;
         font-size: 25px;
-        margin-left: 78px;
+        margin-left: 67px;
     }
 
     header .conteudo h2
@@ -150,15 +150,15 @@ header .conteudo a
 
     header .conteudo input
     {
-       font-size: 15px ; 
+       font-size: 16px ; 
     }
 
     header .conteudo button
     {
         margin-top: 20px ;
         margin-left: 100px ;
-        height: 30px;
-        width: 100px;
+        height: 35px;
+        width: 110px;
         font-size: 13px ;
     }
 

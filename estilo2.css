@@ -56,7 +56,7 @@ header .conteudo input
 
 .botao
 {
-    margin-left: 200px ;
+    margin-left: 350px ;
     margin-top: 20px ;
 }
 
@@ -104,6 +104,11 @@ button:hover
         height: 25px;
     }
 
+    .botao
+    {
+        margin-left: 310px ;
+    }
+
     .botao button
     {
         font-size: 15px;
@@ -118,54 +123,41 @@ button:hover
 {
     header .conteudo
     {
-        height: 222px;
-        width: 380px; 
+        height: 360px;
+        width: 300px;   
     }
 
     header .conteudo h1
     {
-        font-size: 18px;
+        font-size: 22px;
+        margin-left: 45px;
+        margin-bottom: 20px ;
     }
 
     header .conteudo p
     {
-        font-size: 9px;
+        font-size: 15px ;
+        margin-bottom: 40px ;
     }
 
     header .conteudo input 
     {
-        font-size: 12px ;
-        width: 200px;
-        height: 15px;
-    }
-
-    .botao button
-    {
-        font-size: 11px;
+        width: 250px;
         height: 20px;
-        width: 86px;
-        margin: 0px ;
-    }   
-}
-
-@media (max-width :380px )  
-{
-    header .conteudo h1
-    {
-        font-size: 19px;
+        font-size: 16px ; 
     }
 
-
-    header .conteudo
+    .botao
     {
-        height: 240px;
-        width: 385px; 
+        margin-left: 1px ;
     }
-    
 
     .botao button
     {
-        margin-right: 200px;
-        margin: 5px ;       
-    }
+        margin-top: 20px ;
+        margin-left: 100px ;
+        height: 35px;
+        width: 110px;
+        font-size: 13px ;
+    }   
 }
